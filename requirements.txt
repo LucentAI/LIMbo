@@ -1,3 +1,9 @@
 datasets
 torch
 torchtext
+colorama
+peft
+transformers
+accelerate
+bitsandbytes
+scipy
